@@ -6,18 +6,20 @@ let utils = require('./utils/utils');
 let app = express();
 
 app.get('/', (req, res, next) => {
-    sendRequest('https://www.douban.com/photos/album/82212167/', 0)
+    // 为什么这里要把next传入？
+    sendRequest('https://www.douban.com/photos/album/82212167/', 0, next)
 })
 
 app.listen(3000, () => {
 
 })
 
-function sendRequest(url, num) {
+function sendRequest(url, num, next) {
+    // 发请求抓取网页
     superagent.get(url + `?start=${num ? num : 0}`)
-        .end((err, sres) => {
+        .end((err, sres, req) => {
             if (err) {
-                console.log(err)
+                // console.log(err)
                 return next(err);
             }
             let $ = cheerio.load(sres.text);
@@ -36,8 +38,10 @@ function sendRequest(url, num) {
                     }
                     imgList.push(img);
                 })
-                down(imgList).then(() => {
+                // 把图片src数组传入下载图片
+                utils.down(imgList).then(() => {
                     num += 18;
+                    // 递归调用，分页抓取
                     sendRequest(url, num);
                 })
             } else {
@@ -50,11 +54,3 @@ function sendRequest(url, num) {
         })
 }
 
-function down(imgList) {
-    return new Promise((resolve, reject) => {
-        utils.downloadImg(imgList);
-        setTimeout(() => {
-            resolve();
-        }, 1)
-    })
-}
