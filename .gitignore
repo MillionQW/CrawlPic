@@ -1,0 +1,8 @@
+node_modules/
+img/
+# editor configuration file
+.vscode/*
+.idea/*
+# OSX template
+*.DS_Store
+npm-debug.log
