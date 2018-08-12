@@ -1,0 +1,804 @@
+{
+                        "cinema": [{
+                            "title": "肆式青春",
+                            "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2526429256.webp",
+                            "rate": 6.0
+                        },{
+                        "title": "角头2：王者再起",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2510687913.webp",
+                        "rate": 6.4
+                    },{
+                        "title": "黎明前的拉达克",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2461823472.webp",
+                        "rate": 6.6
+                    },{
+                        "title": "心碎的感觉",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2377526680.webp",
+                        "rate": 7.0
+                    },{
+                        "title": "面纱下的那不勒斯",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2520829666.webp",
+                        "rate": 5.9
+                    },{
+                        "title": "与人为恶",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2514896800.webp",
+                        "rate": 6.5
+                    },{
+                        "title": "超级骑警2",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2515267782.webp",
+                        "rate": 5.1
+                    },{
+                        "title": "佐伊",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2525806234.webp",
+                        "rate": 5.8
+                    },{
+                        "title": "拳击场故事",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2492984415.webp",
+                        "rate": 5.7
+                    },{
+                        "title": "落水姻缘",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2520478082.webp",
+                        "rate": 6.4
+                    },{
+                        "title": "谎话连篇",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2503910843.webp",
+                        "rate": 6.3
+                    },{
+                        "title": "灭绝",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2527704789.webp",
+                        "rate": 5.8
+                    },{
+                        "title": "我的冠军男友",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2515187596.webp",
+                        "rate": 7.3
+                    },{
+                        "title": "李尔王",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2523513552.webp",
+                        "rate": 7.4
+                    },{
+                        "title": "缉妖法海传",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2529213934.webp",
+                        "rate": 6.0
+                    },{
+                        "title": "兄弟班",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2527543528.webp",
+                        "rate": 5.9
+                    },{
+                        "title": "亿万少年俱乐部",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2526881108.webp",
+                        "rate": 5.4
+                    },{
+                        "title": "炎夏之夜",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2519114079.webp",
+                        "rate": 6.0
+                    },{
+                        "title": "理想之家",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2521601585.webp",
+                        "rate": 6.3
+                    },{
+                        "title": "超人之死",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2526823875.webp",
+                        "rate": 7.5
+                    },{
+                        "title": "中二病也要谈恋爱！剧场版 -Take On Me-",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2509844695.webp",
+                        "rate": 8.4
+                    },{
+                        "title": "吃货宇宙",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2522682953.webp",
+                        "rate": 6.1
+                    },{
+                        "title": "猎鸟",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2384391517.webp",
+                        "rate": 6.4
+                    },{
+                        "title": "亚人3：冲戟",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2365925849.webp",
+                        "rate": 8.1
+                    },{
+                        "title": "哥斯拉：决战之都",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2519232908.webp",
+                        "rate": 6.6
+                    },{
+                        "title": "爱上谎言的女人",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2497881869.webp",
+                        "rate": 6.2
+                    },{
+                        "title": "侦探2",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2527663305.webp",
+                        "rate": 6.5
+                    },{
+                        "title": "旅程终点",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2512023033.webp",
+                        "rate": 6.3
+                    },{
+                        "title": "第三波",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2512905976.webp",
+                        "rate": 5.4
+                    },{
+                        "title": "进击的巨人剧场版：觉醒的咆哮",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2504585123.webp",
+                        "rate": 7.8
+                    },{
+                        "title": "鬼故事",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2528217984.webp",
+                        "rate": 7.1
+                    },{
+                        "title": "假期惊魂",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2519506959.webp",
+                        "rate": 5.0
+                    },{
+                        "title": "勒索",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2519011646.webp",
+                        "rate": 6.7
+                    },{
+                        "title": "白牙",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2522339208.webp",
+                        "rate": 7.6
+                    },{
+                        "title": "花季少女",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2506391530.webp",
+                        "rate": 6.2
+                    },{
+                        "title": "无尽",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2511708562.webp",
+                        "rate": 6.7
+                    },{
+                        "title": "虽说是未成年，但可不是小孩哟",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517726751.webp",
+                        "rate": 5.5
+                    },{
+                        "title": "吊人游戏",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2502372513.webp",
+                        "rate": 5.1
+                    },{
+                        "title": "薙刀社青春日记",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2492096496.webp",
+                        "rate": 6.4
+                    },{
+                        "title": "鸟女",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2464852652.webp",
+                        "rate": 7.1
+                    },{
+                        "title": "纽约唯一活着的男孩",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2498516556.webp",
+                        "rate": 6.2
+                    },{
+                        "title": "消失的西德尼·豪尔",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510276489.webp",
+                        "rate": 7.2
+                    },{
+                        "title": "黄鸟",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2525517446.webp",
+                        "rate": 6.2
+                    },{
+                        "title": "耐莉",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2413642427.webp",
+                        "rate": 5.8
+                    },{
+                        "title": "萌犬好声音",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2512417830.webp",
+                        "rate": 5.6
+                    },{
+                        "title": "超重警官",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2465560025.webp",
+                        "rate": 5.8
+                    },{
+                        "title": "坏妈妈的圣诞节",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2498335116.webp",
+                        "rate": 5.7
+                    },{
+                        "title": "最后的旗帜",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2499031015.webp",
+                        "rate": 6.7
+                    },{
+                        "title": "在切瑟尔海滩上",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2501790744.webp",
+                        "rate": 7.3
+                    },{
+                        "title": "重塑马文",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2492742265.webp",
+                        "rate": 6.8
+                    },{
+                        "title": "中转停留",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2502820098.webp",
+                        "rate": 5.1
+                    },{
+                        "title": "首杀",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2461945796.webp",
+                        "rate": 5.3
+                    },{
+                        "title": "老幸运",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2529424237.webp",
+                        "rate": 7.5
+                    },{
+                        "title": "国王口信",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2458703045.webp",
+                        "rate": 6.1
+                    },{
+                        "title": "了不起的高二八班",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2526935106.webp",
+                        "rate": 5.5
+                    },{
+                        "title": "数码宝贝大冒险tri. 第6章：我们的未来",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2520871853.webp",
+                        "rate": 5.3
+                    },{
+                        "title": "宫合",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2511347475.webp",
+                        "rate": 5.7
+                    },{
+                        "title": "疯狂父母",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2509996043.webp",
+                        "rate": 5.3
+                    },{
+                        "title": "影星永驻利物浦",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2498337428.webp",
+                        "rate": 7.1
+                    },{
+                        "title": "苌山虎",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2491519057.webp",
+                        "rate": 5.1
+                    },{
+                        "title": "抢劫坚果店2",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2493285332.webp",
+                        "rate": 6.1
+                    },{
+                        "title": "虚拟实惊",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2503249391.webp",
+                        "rate": 6.5
+                    },{
+                        "title": "第十二个人",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512022748.webp",
+                        "rate": 7.8
+                    },{
+                        "title": "敬请稍候",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2506859999.webp",
+                        "rate": 6.9
+                    },{
+                        "title": "阿莉芙",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2495631427.webp",
+                        "rate": 6.3
+                    },{
+                        "title": "马克·费尔特：扳倒白宫之人",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2498865968.webp",
+                        "rate": 6.6
+                    },{
+                        "title": "龙之战",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2495031914.webp",
+                        "rate": 6.4
+                    },{
+                        "title": "奥斯曼中尉",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2432992918.webp",
+                        "rate": 5.6
+                    },{
+                        "title": "山2",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2448817847.webp",
+                        "rate": 6.8
+                    },{
+                        "title": "哈佛少女的快乐清单",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2442479705.webp",
+                        "rate": 6.5
+                    },{
+                        "title": "书店",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2522907851.webp",
+                        "rate": 7.6
+                    },{
+                        "title": "裸婚大喜",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2490944382.webp",
+                        "rate": 5.6
+                    },{
+                        "title": "丛林",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2498434192.webp",
+                        "rate": 6.8
+                    },{
+                        "title": "今天开始世界属于你",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2457922928.webp",
+                        "rate": 6.0
+                    },{
+                        "title": "绝命时钟2:22",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2511529908.webp",
+                        "rate": 5.8
+                    },{
+                        "title": "睡沙发的人",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2523361031.webp",
+                        "rate": 7.2
+                    },{
+                        "title": "那些爱人",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2410602594.webp",
+                        "rate": 6.8
+                    },{
+                        "title": "创可贴",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2498841216.webp",
+                        "rate": 6.6
+                    },{
+                        "title": "见习修女",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2515618273.webp",
+                        "rate": 6.8
+                    },{
+                        "title": "两张彩票",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2455660038.webp",
+                        "rate": 6.7
+                    },{
+                        "title": "不能犯",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2502941070.webp",
+                        "rate": 5.2
+                    },{
+                        "title": "博格对战麦肯罗",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2515831844.webp",
+                        "rate": 7.0
+                    },{
+                        "title": "西谎极落之太爆太子太空舱",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2498904492.webp",
+                        "rate": 6.1
+                    },{
+                        "title": "爱砸了",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505094042.webp",
+                        "rate": 6.7
+                    },{
+                        "title": "丝黛芬妮",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2502622693.webp",
+                        "rate": 5.5
+                    },{
+                        "title": "怪奇秀",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2425765403.webp",
+                        "rate": 7.3
+                    },{
+                        "title": "韩国佬",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2467157666.webp",
+                        "rate": 6.7
+                    },{
+                        "title": "你的短信",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2381697408.webp",
+                        "rate": 7.0
+                    },{
+                        "title": "真相漩涡",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512974718.webp",
+                        "rate": 5.8
+                    },{
+                        "title": "7年之夜",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2516550360.webp",
+                        "rate": 5.5
+                    },{
+                        "title": "灵魂摆渡·黄泉",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2512204463.webp",
+                        "rate": 7.1
+                    },{
+                        "title": "代号基亚斯：反叛的鲁路修1之兴道",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2499190654.webp",
+                        "rate": 8.0
+                    },{
+                        "title": "天际浩劫2",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2505141188.webp",
+                        "rate": 5.2
+                    },{
+                        "title": "牺牲复活者",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2498915229.webp",
+                        "rate": 5.8
+                    },{
+                        "title": "我杀死了巨人",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517152961.webp",
+                        "rate": 5.6
+                    },{
+                        "title": "妄想学生会 剧场版",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2503166245.webp",
+                        "rate": 8.0
+                    },{
+                        "title": "准许",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2506533631.webp",
+                        "rate": 5.9
+                    },{
+                        "title": "衍生玛约莉",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2494163014.webp",
+                        "rate": 6.7
+                    },{
+                        "title": "冰雪之行",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2339511180.webp",
+                        "rate": 6.2
+                    },{
+                        "title": "布希维克",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2493010401.webp",
+                        "rate": 5.7
+                    },{
+                        "title": "午夜阳光",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2506115971.webp",
+                        "rate": 6.2
+                    },{
+                        "title": "昆虫物语",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2519760761.webp",
+                        "rate": 6.9
+                    },{
+                        "title": "感谢您的服役",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2465544167.webp",
+                        "rate": 6.6
+                    },{
+                        "title": "敌对份子",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2513950795.webp",
+                        "rate": 6.7
+                    },{
+                        "title": "初恋日记",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2498885435.webp",
+                        "rate": 5.5
+                    },{
+                        "title": "爱的路",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2510376674.webp",
+                        "rate": 6.7
+                    },{
+                        "title": "伤口",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2507733113.webp",
+                        "rate": 6.8
+                    },{
+                        "title": "灿烂这一刻",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2504820927.webp",
+                        "rate": 5.4
+                    },{
+                        "title": "疯狂婚礼周",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2520212236.webp",
+                        "rate": 6.1
+                    },{
+                        "title": "布拉文",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2512469914.webp",
+                        "rate": 5.8
+                    },{
+                        "title": "父亲形象",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2504955363.webp",
+                        "rate": 6.2
+                    },{
+                        "title": "泡吧侦探3",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505419712.webp",
+                        "rate": 6.2
+                    },{
+                        "title": "老爸当家2",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2503839802.webp",
+                        "rate": 6.3
+                    },{
+                        "title": "罗曼先生，你好",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2512577391.webp",
+                        "rate": 6.7
+                    },{
+                        "title": "嗨翻姐妹行",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2493890652.webp",
+                        "rate": 6.3
+                    },{
+                        "title": "她的人生没有错",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2459198221.webp",
+                        "rate": 6.3
+                    },{
+                        "title": "梦回少年时",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2457028097.webp",
+                        "rate": 6.1
+                    },{
+                        "title": "英格丽向西行",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2456846696.webp",
+                        "rate": 6.1
+                    },{
+                        "title": "疯狂修道院",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2459642434.webp",
+                        "rate": 5.9
+                    },{
+                        "title": "莱姆豪斯的杀人魔",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2496371205.webp",
+                        "rate": 6.6
+                    },{
+                        "title": "死亡飞车4：混乱之上",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2512256306.webp",
+                        "rate": 5.3
+                    },{
+                        "title": "塔利",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2513046246.webp",
+                        "rate": 7.6
+                    },{
+                        "title": "远山恋人",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2462943902.webp",
+                        "rate": 6.0
+                    },{
+                        "title": "维多利亚与阿卜杜勒",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2460988765.webp",
+                        "rate": 6.3
+                    },{
+                        "title": "梦呓雨林",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2403100627.webp",
+                        "rate": 7.4
+                    },{
+                        "title": "地狱：亡灵栖所",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2353710010.webp",
+                        "rate": 5.7
+                    },{
+                        "title": "野生狼性",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516595539.webp",
+                        "rate": 5.2
+                    },{
+                        "title": "外来者",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2514369049.webp",
+                        "rate": 5.6
+                    },{
+                        "title": "贝鲁特",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2511173952.webp",
+                        "rate": 6.1
+                    },{
+                        "title": "钟馗传奇之岁寒三友",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2506415200.webp",
+                        "rate": 5.6
+                    },{
+                        "title": "黑暗缪斯",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517614302.webp",
+                        "rate": 5.6
+                    },{
+                        "title": "大将金昌洙",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2510412582.webp",
+                        "rate": 5.9
+                    },{
+                        "title": "星河战队：火星叛国者",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2461966324.webp",
+                        "rate": 5.8
+                    },{
+                        "title": "星游记之风暴法米拉",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2492792540.webp",
+                        "rate": 7.4
+                    },{
+                        "title": "一锤定音",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2455068697.webp",
+                        "rate": 7.5
+                    },{
+                        "title": "艾娃",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520395798.webp",
+                        "rate": 6.8
+                    },{
+                        "title": "猪太狼的夏天",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2502990411.webp",
+                        "rate": 6.1
+                    },{
+                        "title": "换季期",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512189868.webp",
+                        "rate": 7.6
+                    },{
+                        "title": "龙之诞生",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2494499386.webp",
+                        "rate": 5.1
+                    },{
+                        "title": "脆弱地带",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2457709580.webp",
+                        "rate": 6.6
+                    },{
+                        "title": "邪不压正",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2526297221.webp",
+                        "rate": 7.1
+                    },{
+                        "title": "智慧囚屋",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2525687168.webp",
+                        "rate": 5.6
+                    },{
+                        "title": "迷失地铁",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2525581412.webp",
+                        "rate": 5.8
+                    },{
+                        "title": "故事贩卖机",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2508067269.webp",
+                        "rate": 5.9
+                    },{
+                        "title": "口径",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2526481065.webp",
+                        "rate": 5.8
+                    },{
+                        "title": "泄密者",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2524686290.webp",
+                        "rate": 5.4
+                    },{
+                        "title": "侏罗纪世界2",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2522069454.webp",
+                        "rate": 6.8
+                    },{
+                        "title": "牵线",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2522287689.webp",
+                        "rate": 6.5
+                    },{
+                        "title": "陈翔六点半之铁头无敌",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2522275201.webp",
+                        "rate": 6.3
+                    },{
+                        "title": "牵牛花与加濑同学",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2450467970.webp",
+                        "rate": 7.3
+                    },{
+                        "title": "黑暗之中",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2521191021.webp",
+                        "rate": 5.7
+                    },{
+                        "title": "毒战",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2522806962.webp",
+                        "rate": 6.3
+                    },{
+                        "title": "死侍2",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2521499639.webp",
+                        "rate": 7.7
+                    },{
+                        "title": "超时空同居",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520331478.webp",
+                        "rate": 6.9
+                    },{
+                        "title": "罪途3之正义规则",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2522096027.webp",
+                        "rate": 6.7
+                    },{
+                        "title": "燃烧",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520095279.webp",
+                        "rate": 7.9
+                    },{
+                        "title": "罪途2之救赎代价",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2521828661.webp",
+                        "rate": 6.7
+                    },{
+                        "title": "华氏451",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2523069716.webp",
+                        "rate": 5.2
+                    },{
+                        "title": "趴体生活",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517458919.webp",
+                        "rate": 5.3
+                    },{
+                        "title": "我是你妈",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2520372116.webp",
+                        "rate": 5.0
+                    },{
+                        "title": "亲吻亭",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520915398.webp",
+                        "rate": 6.5
+                    },{
+                        "title": "终端",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517557233.webp",
+                        "rate": 5.4
+                    },{
+                        "title": "罪途1之死亡列车",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2521612839.webp",
+                        "rate": 6.9
+                    },{
+                        "title": "机动战士高达THE ORIGIN 赤色彗星诞生",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2518242401.webp",
+                        "rate": 8.7
+                    },{
+                        "title": "匿名者",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2519789189.webp",
+                        "rate": 6.3
+                    },{
+                        "title": "冠军",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2518254284.webp",
+                        "rate": 6.1
+                    },{
+                        "title": "达克",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2520955653.webp",
+                        "rate": 5.3
+                    },{
+                        "title": "后来的我们",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2519994468.webp",
+                        "rate": 5.9
+                    },{
+                        "title": "讨债人",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2511994727.webp",
+                        "rate": 5.9
+                    },{
+                        "title": "杀人小说",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2516392631.webp",
+                        "rate": 5.3
+                    },{
+                        "title": "忍者蝙蝠侠",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2506695706.webp",
+                        "rate": 7.0
+                    },{
+                        "title": "复仇者联盟3：无限战争",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517753454.webp",
+                        "rate": 8.2
+                    },{
+                        "title": "超大号美人",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2512993242.webp",
+                        "rate": 6.3
+                    },{
+                        "title": "最后一球",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2526211692.webp",
+                        "rate": 7.3
+                    },{
+                        "title": "鸭油",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517071918.webp",
+                        "rate": 5.5
+                    },{
+                        "title": "记得我",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2516461804.webp",
+                        "rate": 5.2
+                    },{
+                        "title": "见爱不怪",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2521675870.webp",
+                        "rate": 6.5
+                    },{
+                        "title": "幕后玩家",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2520543845.webp",
+                        "rate": 5.6
+                    },{
+                        "title": "真心话大冒险",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2509632893.webp",
+                        "rate": 5.9
+                    },{
+                        "title": "男人要自爱",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2522124933.webp",
+                        "rate": 7.5
+                    },{
+                        "title": "狂暴巨兽",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2516079193.webp",
+                        "rate": 6.5
+                    },{
+                        "title": "钱袋",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2514687425.webp",
+                        "rate": 6.6
+                    },{
+                        "title": "德九",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2514413785.webp",
+                        "rate": 7.5
+                    },{
+                        "title": "猫与桃花源",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517516405.webp",
+                        "rate": 6.1
+                    },{
+                        "title": "风风风",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2515589861.webp",
+                        "rate": 5.7
+                    },{
+                        "title": "昆池岩",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2513360824.webp",
+                        "rate": 6.1
+                    },{
+                        "title": "自杀小队：严厉惩罚",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2519931276.webp",
+                        "rate": 7.3
+                    },{
+                        "title": "使徒保罗",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2514371206.webp",
+                        "rate": 7.1
+                    },{
+                        "title": "游戏结束，老兄！",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2509705531.webp",
+                        "rate": 5.9
+                    },{
+                        "title": "环太平洋：雷霆再起",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2512933684.webp",
+                        "rate": 5.5
+                    },{
+                        "title": "小公女",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2513982852.webp",
+                        "rate": 7.9
+                    },{
+                        "title": "古墓丽影：源起之战",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512717509.webp",
+                        "rate": 6.0
+                    },{
+                        "title": "神探狗笨吉",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2513412336.webp",
+                        "rate": 6.6
+                    },{
+                        "title": "爱你，西蒙",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2523592367.webp",
+                        "rate": 8.3
+                    },{
+                        "title": "超乎想象",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2503852797.webp",
+                        "rate": 7.0
+                    },{
+                        "title": "亲爱的独裁者",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2521631193.webp",
+                        "rate": 5.1
+                    },{
+                        "title": "抹大拉的玛丽亚",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2507817402.webp",
+                        "rate": 5.9
+                    },{
+                        "title": "噩梦娃娃屋",
+                        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2514997577.webp",
+                        "rate": 6.9
+                    },{
+                        "title": "现在去见你",
+                        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2514384773.webp",
+                        "rate": 8.1
+                    },{
+                                "title": "超能奇才",
+                                "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2516970354.webp",
+                                "rate": 5.8
+                            }
+                        ]
+                    }
